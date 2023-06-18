@@ -1,0 +1,16 @@
+.food-box{
+    width: 250px;
+    border: 1pxsolid #000;
+    padding:10px;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+    margin: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+.img200{
+width: 200px;
+height: 200px;
+border-radius: 15px;
+border: 1px solid #ccc;
+margin: 10px;
+}

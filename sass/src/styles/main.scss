@@ -1,0 +1,15 @@
+@import "general";
+div{
+    background-color:$back-color;
+    h1{
+        color: $text-color;
+        text-align: center;
+
+    }
+    p.c1{
+        text-align: justify;
+        width: 50%;
+        margin: 10px auto;
+        padding: 30px;
+    }
+}
